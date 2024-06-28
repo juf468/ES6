@@ -15,3 +15,4 @@ function newUser(name, age, country){
         }
     newAdmin();
     newAdmin('Ana', 28, 'PE');
+    
